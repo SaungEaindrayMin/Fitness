@@ -32,6 +32,7 @@ nav {
     var(--second-color),
     var(--seventh-color)
   );
+  opacity: 0.9;
 }
 
 .nav-img{
